@@ -1,0 +1,23 @@
+{
+  "name": "2i",
+  "version": "1.0.0",
+  "description": "## Plan - In a language of your choice, using all best practice principles you’re aware of, could you please provide code that reads a list of 10 numbers ranging between 1 to 100. -Assuming there are 4 duplicates in the list of numbers, the output should remove the duplicates and sort the remaining numbers in descending order. Please state any assumptions you’ve made.",
+  "main": "sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saraesabbagh/2iChallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saraesabbagh/2iChallenge/issues"
+  },
+  "homepage": "https://github.com/Saraesabbagh/2iChallenge#readme",
+  "dependencies": {
+    "jest": "^29.1.2"
+  }
+}
