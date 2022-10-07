@@ -7,4 +7,5 @@ describe('sort', () => {
   it('returns and array in decending order with duplicates removed', () => {
     expect(sort([1,2,2,3])).toEqual([3,2,1]);
   });
+
 });
