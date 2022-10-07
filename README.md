@@ -20,6 +20,7 @@
 - second remove duplicates
 - 3rd return desired outcome of numbers. 
 - Use Jest for test coverage
+- Use Eslint as linter for format and javascript specific checks
 
 ### How to install and run this code and tests?
 
