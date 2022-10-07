@@ -9,6 +9,6 @@ describe('sort', () => {
   });
   it('returns 0 when given 0', () => {
     expect(sort([0])).toEqual([0]);
-  })
-
+  });
+  
 });
