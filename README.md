@@ -21,4 +21,17 @@
 - 3rd return desired outcome of numbers. 
 - Use Jest for test coverage
 
+### How to install and run this code and tests?
+
+```
+nvm use node
+npm init -y
+npm add jest
+npm install
+npm install -g jest
+node app.js
+
+jest
+````
+
 
