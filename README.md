@@ -2,9 +2,8 @@
 <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
 ### Goal
-````
 - Create a simple program that takes a list of numbers and returns the list in decending order, with any duplicates removed. 
-````
+
 
 ### Plan / user story
 - In a language of your choice, using all best practice principles you’re aware of, could you please provide code that reads a list of 10 numbers ranging between 1 to 100.
@@ -20,5 +19,6 @@
 - first sort the numbers into descending order
 - second remove duplicates
 - 3rd return desirce outcome of numbers. 
+- Use Jest for test coverage
 
 
